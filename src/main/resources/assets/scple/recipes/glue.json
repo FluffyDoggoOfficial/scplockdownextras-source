@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "BH"
+    ],
+   
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:dye",
+            "data": 15
+        },
+        "H":
+        {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+   
+    "result":
+    {
+        "item": "scple:glue",
+        "count": 32
+    }
+}
