@@ -1,0 +1,400 @@
+{
+    "block.metal.step": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/stepmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.step": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/step1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.metal.place": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/stepmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.place": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/step1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.metal.break": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/stepmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/stepmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.break": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/step1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/step8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.metal.fall": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:fall/fallmetal1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fallmetal8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.normal.fall": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:fall/fall1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall3",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall4",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall5",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall6",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall7",
+                "pitch": 1
+            },
+            {
+                "name": "scple:fall/fall8",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.normal.open": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door1open1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1open2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1open3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.normal.close": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door1close1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1close2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door1close3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.heavy.open": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door2open1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2open2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2open3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.door.heavy.close": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:door/door2close1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2close2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:door/door2close3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.puddle106.step": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:step/steplarry1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/steplarry2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:step/steplarry3",
+                "pitch": 1
+            }
+        ]
+    },
+    "block.puddle106.break": {
+        "category": "block",
+        "sounds": [
+            {
+                "name": "scple:break/larrybreak1",
+                "pitch": 1
+            },
+            {
+                "name": "scple:break/larrybreak2",
+                "pitch": 1
+            },
+            {
+                "name": "scple:break/larrybreak3",
+                "pitch": 1
+            }
+        ]
+    }
+}
