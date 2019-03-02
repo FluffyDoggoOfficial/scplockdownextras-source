@@ -14,7 +14,7 @@ M
 ## key
 I: Iron Ingot  
 S: Stone  
-B: Iron Block
+B: Iron Block  
 M: Metal Floor B
 
 ## output 1
