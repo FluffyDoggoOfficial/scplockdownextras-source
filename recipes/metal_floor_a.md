@@ -3,15 +3,22 @@
 I wanted most of the stuff in my mod to be craftable, this was no exception. This recipe is based off Chisel's Factory Block recipes, but
 with an Iron Block in the middle.
 
-## recipe
+## recipe 1
 I S I  
 S B S  
-I S I  
+I S I
+
+## recipe 2
+M
 
 ## key
 I: Iron Ingot  
 S: Stone  
 B: Iron Block
+M: Metal Floor B
 
-## output
+## output 1
 Metal Floor A x 64
+
+## output 2
+Metal Floor A x 1
