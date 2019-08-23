@@ -9,8 +9,8 @@ SCP Lockdown Extras is a mod designed to build off the SCP: Lockdown experience,
 
 This mod adds:
 
- - New Heavy Containment Blocks  
- - New SCP's  
+ - New Heavy Containment Blocks
+ - New SCP's
  - A document system (Based off SCP Containment Breach) [NOT ADDED YET]  
  - Dark Concrete for your Light Containment Zones  
  - Custom Block Sounds  
