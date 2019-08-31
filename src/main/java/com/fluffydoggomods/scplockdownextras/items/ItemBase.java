@@ -13,7 +13,7 @@ public class ItemBase extends Item implements IHasModel {
 	public ItemBase(String name, CreativeTabs tab) {
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		if (tab != null) {
+		if (tab == null) {
 			setCreativeTab(Main.scpletab);
 		} else {
 			setCreativeTab(tab);
