@@ -3,7 +3,7 @@
    
     "pattern":
     [
-        "BH"
+        "BG"
     ],
    
     "key":
@@ -13,15 +13,15 @@
             "item": "minecraft:dye",
             "data": 15
         },
-        "H":
+        "G":
         {
-            "item": "minecraft:lava_bucket"
+            "item": "minecraft:glass_bottle"
         }
     },
    
     "result":
     {
         "item": "scple:glue",
-        "count": 32
+        "count": 1
     }
 }
