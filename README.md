@@ -59,7 +59,21 @@ ITEMS
 - Added Glue
 ```  
   
- 
+ **1.1** (WIP, Current Features)
+ ```
+ ITEMS  
+   
+ - Pill Bottle  
+ - Glue Changes (new recipe, new texture)  
+ - Pill  
+ - Upgraded Pill  
+   
+   
+   
+ SCPS  
+   
+ - SCP-500 (The Bottle)
+ ```
   
   
   
