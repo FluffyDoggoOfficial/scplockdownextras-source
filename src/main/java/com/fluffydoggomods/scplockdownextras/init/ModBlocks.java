@@ -23,7 +23,7 @@ public class ModBlocks
 	public static final Block METAL_FLOOR_A = new MetalBlock("metal_floor_a", Material.IRON);
 	public static final Block HARD_METAL_WALL_A = new MetalBlock("hard_metal_wall", Material.IRON);
 	public static final Block DARK_CONCRETE = new ConcreteBlock("dark_concrete", Material.IRON);
-	public static final Block PUDDLE_106 = new LarryPuddle("puddle106", Material.IRON);
+	public static final Block PUDDLE_106 = new LarryPuddle();
 	public static final Block METAL_PANEL_1 = new MetalBlock("mp1", Material.IRON);
 	public static final Block METAL_PANEL_2 = new MetalBlock("mp2", Material.IRON);
 	public static final Block METAL_PANEL_3 = new MetalBlock("mp3", Material.IRON);
