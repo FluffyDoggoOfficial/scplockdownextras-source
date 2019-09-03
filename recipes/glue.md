@@ -1,16 +1,15 @@
 # Create Glue from Lava and Bonemeal
 
-In support of the paper recipe, I needed some sort of glue to "hold" the paper scraps together. Bonemeal was used it was the closest thing
-usable for glue.  
-  
-I may later add support for mods with *lava-like* liquids
+In support of the paper recipe, I needed some sort of glue to "hold" the paper scraps together. Bonemeal was used it was the closest thing usable for glue.
+
+I changed the recipe, as the glue would now be contained in the glass bottle.
 
 ## recipe
-B L
+B G
 
 ## key
 B: Bonemeal  
-L: Lava Bucket
+G: Glass Bottle
 
 ## output
-Glue x 32
+Glue x 1
